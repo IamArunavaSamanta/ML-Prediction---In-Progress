@@ -1,6 +1,7 @@
 matplotlib
-sklearn
+scikit-learn
 tensorflow
 keras
-opencv
+opencv-python
 joblib
+
